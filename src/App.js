@@ -46,6 +46,7 @@ function App() {
   return (
     <> {renderContent(dataList)}; </> //jsx
   );
+  const changeDemo = () => {}
 }
 
 export default App; 
